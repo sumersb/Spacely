@@ -1,0 +1,29 @@
+
+.message-board {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: bisque;
+}
+
+.message-bubble {
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+	width: 90%;
+	height: auto;
+	background-color: lightyellow;
+    padding: 10px;
+}
+
+.talk-text {
+    padding: 0;
+    margin: 0;
+}
+
+.new-message {
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+    padding: 5px;
+}

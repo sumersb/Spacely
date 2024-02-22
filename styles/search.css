@@ -1,0 +1,21 @@
+.search{
+    padding: 20px;
+}
+.search-top-half{
+    display: inline-grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 10px;
+}
+.map img{
+    width: 100%;
+}
+
+/* Renting */
+.renting img{
+    width: 100%;
+}
+.rentingImg{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 20px;
+}
